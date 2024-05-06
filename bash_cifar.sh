@@ -1,0 +1,1 @@
+python main.py --normal_digit 0 --n_epochs 1000 --batch_size 200 --auxiliary_digit 1 --latent_dim 128 --name cifar --gamma_p 0 --gamma_l 0.2 --k 1 --dataset CIFAR --dir /CIFAR0.2/summary//
